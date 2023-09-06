@@ -129,39 +129,39 @@ body {
 }
 /* End Stuff */
 /* Start Team */
-/*.team {*/
-/*  background-color: var(--section-color);*/
-/*}*/
-/*.team h2 {*/
-/*  color: var(--yellow-color);*/
-/*}*/
-/*.team .box h4 {*/
-/*  background-color: var(--green-color);*/
-/*}*/
+.team {
+  background-color: var(--section-color);
+}
+.team h2 {
+  color: var(--yellow-color);
+}
+.team .box h4 {
+  background-color: var(--green-color);
+}
 /* End Team */
 /* Start Project */
-/*.project {*/
-/*  background-color: var(--dark-color);*/
-/*}*/
-/* End Project */
-/* Start Subscribe */
-/*.subscribe {*/
-/*  background-color: var(--yellow-color);*/
-/*}*/
-/*.subscribe input[type="text"] {*/
-/*  border: none;*/
-/*  border-bottom: 1px solid white;*/
-/*}*/
-/*.subscribe input[type="text"]:focus {*/
-/*  outline: none;*/
-/*}*/
-/*.subscribe ::placeholder {*/
-/*  color: white;*/
-/*}*/
-/*.subscribe input[type="submit"] {*/
-/*  background-color: var(--dark-color);*/
-/*  color: var(--yellow-color);*/
-/*}*/
+.project {
+  background-color: var(--dark-color);
+}
+ End Project
+ Start Subscribe
+.subscribe {
+  background-color: var(--yellow-color);
+}
+.subscribe input[type="text"] {
+  border: none;
+  border-bottom: 1px solid white;
+}
+.subscribe input[type="text"]:focus {
+  outline: none;
+}
+.subscribe ::placeholder {
+  color: white;
+}
+.subscribe input[type="submit"] {
+  background-color: var(--dark-color);
+  color: var(--yellow-color);
+}
 /* End Subscribe */
 /* Start Footer */
 /*.footer {*/
